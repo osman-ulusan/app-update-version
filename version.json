@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minVersion": "1.0.0",
-  "updateMessage": "Yeni özellikler ve iyileştirmeler mevcut!",
-  "forceUpdate": false
+  "updateMessage": "Yeni Kartlar Eklendi!",
+  "forceUpdate": true
 }
