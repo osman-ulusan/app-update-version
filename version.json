@@ -1,6 +1,7 @@
 {
   "version": "1.0.2",
   "minVersion": "1.0.0",
-  "updateMessage": "Yeni Kartlar Eklendi (Araba)!",
+  "updateMessageTr": "Yeni Kartlar Eklendi (Araba)!",
+  "updateMessageEn": "New Cards Added (Car)!",
   "forceUpdate": false
 }
