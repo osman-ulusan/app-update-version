@@ -1,14 +1,14 @@
 {
   "version": "1.0.1",
   "minVersion": "1.0.0",
+  "forceUpdate": false,
   "updateMessageTr": "Yeni güncelleme mevcut!",
   "updateMessageEn": "New update available!",
   "updateMessageEs": "¡Nueva actualización disponible!",
-  "updateMessageAr": "!يتوفر تحديث جديد",
+  "updateMessageAr": "يتوفر تحديث جديد!",
   "updateMessagePt": "Nova atualização disponível!",
   "updateMessageDe": "Neues Update verfügbar!",
   "updateMessageFr": "Nouvelle mise à jour disponible!",
   "updateMessageZh": "有新的更新可用！",
-  "updateMessageHi": "नया अपडेट उपलब्ध है!",
-  "forceUpdate": false
+  "updateMessageHi": "नया अपडेट उपलब्ध है!"
 }
